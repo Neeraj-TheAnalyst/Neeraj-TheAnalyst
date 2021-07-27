@@ -10,3 +10,4 @@ For now, I know:
 5. Office 365
 
 I have some experience of using PowerBI during my internship as well.
+I have done 2 internships as well
